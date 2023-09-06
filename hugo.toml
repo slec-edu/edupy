@@ -1,0 +1,4 @@
+baseURL = 'http://edupy.slec.net/'
+languageCode = 'es-co'
+title = 'Edupy 2023'
+theme = 'arcana'

@@ -1,38 +1,43 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  contents: "**Voluntarios:** _hacemos realidad el evento con tu ayuda [Inscríbete](https://bit.ly/VoluntariadoEduPyOctubre2023)_"
   button:
-    contents: "Learn More"
-    url: "#"
+    contents: "Se voluntario"
+    url: "https://bit.ly/VoluntariadoEduPyOctubre2023"
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
+    - title: Inscripción de voluntarios
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
+        Quieres ayudarnos a que el evento sea visible en redes,
+        acompañar conferencistas programar o ser parte de esta
+        primera vez?
+    - title: Inscripción de patrocinadores
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
+        Si representas a una empresa y quieres apoyar la educación
+        desde los inicios; Gracias a ello docentes y directivos docentes
+        podrán aprovechar el poder de Python en clase?
+    - title: Inscripción de conferencistas
       icon: fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        Te gusta contar las experiencias en torno a educación que has
+        vivido? Tienes herramientas que deseas compartir para otros docentes?
+        Creas contenidos?
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: Cali, Octubre 21 de 2.023, Universidad Libre
+    contents: Este día habrá conferencias y talleres dirigidos a docentes y directivos docentes
+      Es un evento gratuito para que construyamos desde la infancia las mejores
+      oportunidades para todos.
   - type: posts
     #heading: Recent Posts
     content_type: posts
     max: 4
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: ¿Estás list@ para ayudar?
     button:
-      contents: Insert Coin
-      url: "#"
+      contents: Inscríbete para ser voluntari@
+      url: "https://bit.ly/VoluntariadoEduPyOctubre2023"

@@ -23,3 +23,5 @@ go.work
 # Hugo output
 public/
 
+# Hugo locks
+.hugo_build.lock

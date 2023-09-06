@@ -1,4 +1,4 @@
-baseURL = 'http://edupy.slec.net/'
+baseURL = 'http://edupy.gitpages.io/'
 languageCode = 'es-co'
-title = 'Edupy 2023'
+title = 'Edupy: Octubre 21 de 2.023'
 theme = 'arcana'

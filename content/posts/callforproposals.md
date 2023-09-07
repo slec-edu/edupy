@@ -1,7 +1,7 @@
 ---
 title: Conferencistas y Talleristas
 image: images/pic01.jpg
-date: "2023-09-06T00:00:00"
+date: "2023-09-07T00:00:00"
 tags:
   - volunteer
   - organizational

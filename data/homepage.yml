@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
+  image: "images/banner.png"
   contents: "**Voluntarios:** _hacemos realidad el evento con tu ayuda [Inscríbete](https://bit.ly/VoluntariadoEduPyOctubre2023)_"
   button:
     contents: "Se voluntario"
@@ -35,6 +35,14 @@ items:
   - type: posts
     #heading: Recent Posts
     content_type: posts
+    max: 4
+
+  - type: heading
+    heading: Colaboradores
+
+  - type: collaborators
+    #heading: Recent Posts
+    content_type: collaborators
     max: 4
   - type: cta
     contents: ¿Estás list@ para ayudar?

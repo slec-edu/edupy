@@ -14,19 +14,19 @@ items:
       content: >
         Quieres ayudarnos a que el evento sea visible en redes,
         acompañar conferencistas programar o ser parte de esta
-        primera vez?
-    - title: Inscripción de patrocinadores
-      icon: fa-pencil-alt
-      content: >
-        Si representas a una empresa y quieres apoyar la educación
-        desde los inicios; Gracias a ello docentes y directivos docentes
-        podrán aprovechar el poder de Python en clase?
+        primera vez? [Colabora](https://bit.ly/VoluntariadoEduPyOctubre2023)
     - title: Inscripción de conferencistas
-      icon: fa-wrench
+      icon: fa-pencil-alt
       content: >
         Te gusta contar las experiencias en torno a educación que has
         vivido? Tienes herramientas que deseas compartir para otros docentes?
-        Creas contenidos?
+        Creas contenidos? [Guía](https://bit.ly/ConferencistaEdupyOctubre2023)
+    - title: Inscripción de patrocinadores
+      icon: fa-wrench
+      content: >
+        Si representas a una empresa y quieres apoyar la educación
+        desde los inicios; Gracias a ello docentes y directivos docentes
+        podrán aprovechar el poder de Python en clase? 
   - type: heading
     heading: Cali, Octubre 21 de 2.023, Universidad Libre
     contents: Este día habrá conferencias y talleres dirigidos a docentes y directivos docentes

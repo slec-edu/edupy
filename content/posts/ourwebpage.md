@@ -1,6 +1,6 @@
 ---
 title: Nuestro Sitio Web
-image: images/pic01.jpg
+image: images/pic04.jpg
 date: "2023-09-06T04:00:00"
 tags:
   - volunteer

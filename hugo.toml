@@ -1,6 +1,6 @@
 baseURL = 'http://edupy.gitpages.io/'
 languageCode = 'es-co'
-title = 'Edupy: Octubre 21 de 2.023, Cali, Colombia'
+title = 'EduPy: Octubre 21 de 2.023, Cali, Colombia'
 theme = 'arcana'
 defaultcontentlanguage = "es"
 

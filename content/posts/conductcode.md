@@ -1,11 +1,11 @@
-
 ---
 title: Código de Conducta
-image: images/pic01.jpg
 date: "2023-09-06T00:00:00"
+menu: main
 tags:
   - code of conduct
   - organizational
+  - legal
 ---
 
 # Código de Conducta
@@ -14,15 +14,37 @@ Edupy ofrece un espacio de respeto, libre de acoso para todo
 el mundo. No toleramos acoso o matoneo por miembro alguno de
 la comunidad de cualquier forma. Esto incluye a todas las personas
 que estén planeando un evento de este estilo como participante,
-desarrollador, donante o contribuyente.
+desarrollador, donante o contribuyente durante el evento o en las 
+interacciones.
 
-CODE OF CONDUCT
-Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.
+El acoso incluye comentarios verbales o electrónicos relacionados 
+con características personales o elecciones, imágenes o comentarios 
+sexuales en público o espacios en línea, intimidación deliberada, 
+matoneo, acecho, seguimiento, fotografías o video con acoso, 
+interrupción sostenida en charlas, pláticas en línea, reuniones 
+electrónicas, reuniones físicas u otros eventos, contacto físico 
+inapropiado o atención sexual no deseada. Quienes participan de 
+algún tipo de comportamiento que refleje acoso o matoneo se espera 
+que atiendan el requerimiento de forma inmediata.
 
-Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, IRC chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
+Cuando un participante se involucre en un comportamiento de acoso, 
+los representantes de la comunidad pueden tomar una acción razonable 
+que consideren apropiada, incluyendo advertir a quien ofende, 
+expulsión del evento o expulsión de los medios de comunicación 
+que se prevean y estén relacionados con Edupy o 
+[SLEC](https://www.slec.net/), tales como 
+listas de correo, herramientas de comunicación instantánea, tableros 
+de discusión y otros canales electrónicos de comunicación para 
+resolver la situación.
 
-If a participant engages in harassing behavior, representatives of the community may take reasonable action they deem appropriate, including warning the offender, expulsion from any PyLadies event, or expulsion from mailing lists, IRC chats, discussion boards and other electronic communications channels to resolve the issue. This may include expulsion from PyLadies Meetup group membership.
+Si usted se siente acosad@, o nota que alguien está siendo objeto 
+de acoso o siente alguna inquietud, por favor actúe, interceda o 
+solicite ayuda de alguno de los colaboradores de Edupy, 
+administradores de los servicios tales como comunicaciones en línea, 
+sitios web u organizadores/represetantes de cualquier evento físico 
+relacionados con Edupy o [SLEC](https://www.slec.net/).
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the PyLadies community, IRC chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of PyLadies.
-
-This Code of Conduct has been adapted from the Plone Foundation and is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported license
+Este código de Conducta ha sido adaptado de 
+[Pyladies](https://pyladies.com/) y está 
+licenciado por Creative Commons Attribution-Share Alike 3.0 
+Unported license.

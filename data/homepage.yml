@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.png"
-  contents: "**Voluntarios:** _hacemos realidad el evento con tu ayuda [Inscríbete](https://bit.ly/VoluntariadoEduPyOctubre2023)_"
+  contents: "**Voluntarios:** Hacemos realidad el evento con tu ayuda "
   button:
     contents: "Se voluntario"
     url: "https://bit.ly/VoluntariadoEduPyOctubre2023"

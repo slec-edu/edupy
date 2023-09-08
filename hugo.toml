@@ -3,3 +3,52 @@ languageCode = 'es-co'
 title = 'Edupy: Octubre 21 de 2.023, Cali, Colombia'
 theme = 'arcana'
 defaultcontentlanguage = "es"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "A business/corporate style responsive site template."
+    show_post_dates = false
+
+    [[params.social]]
+        title = "GitHub"
+        icon = "fa-github"
+        url = "https://github.com/slec-edu/edupy/"
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
+
+
+    [params.footer]
+
+        [[params.footer.links]]
+            header = "Comunidades"
+        [[params.footer.links.links]]
+            title = "CaliDev"
+            url = "https://calidev.co/"
+        [[params.footer.links.links]]
+            title = "Pyladies - Cali"
+            url = "https://www.meetup.com/pyladies-co-cali/"
+        [[params.footer.links.links]]
+            title = "Tribu Latam"
+            url = "https://www.tribulatam.com/"
+        [[params.footer.links.links]]
+            title = "SLEC"
+            url = "https://www.slec.net/"        
+
+        [[params.footer.links]]
+            header = "Organizaciones"
+        [[params.footer.links.links]]
+            title = "FECTP"
+            url = "https://www.fectp.org/"
+        
+        [[params.footer.links.links]]
+            title = "UniLibre - Cali"
+            url = "https://www.unilibre.edu.co/cali/"
+        
+        [params.footer.contact_form]
+            enabled = false
+            header = "Contáctanos"
+            action = ""

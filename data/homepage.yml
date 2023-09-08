@@ -6,6 +6,18 @@ banner:
     contents: "Se voluntario"
     url: "https://bit.ly/VoluntariadoEduPyOctubre2023"
 items:
+  - type: heading
+    heading: Cali, Octubre 21 de 2.023, Universidad Libre
+    contents: Este día habrá conferencias y talleres dirigidos a docentes y 
+      directivos docentes; 
+      Es un evento gratuito para que construyamos desde la infancia las mejores
+      oportunidades para todos.
+  - type: cta
+    contents: Postula tu taller o charla
+    button:
+      contents: Comparte lo que has hecho
+      url: "https://bit.ly/ConferencistaEdupyOctubre2023"
+
   - type: highlights
     items_per_row: 3
     items:
@@ -27,11 +39,13 @@ items:
         Si representas a una empresa y quieres apoyar la educación
         desde los inicios; Gracias a ello docentes y directivos docentes
         podrán aprovechar el poder de Python en clase? 
+
+
   - type: heading
-    heading: Cali, Octubre 21 de 2.023, Universidad Libre
-    contents: Este día habrá conferencias y talleres dirigidos a docentes y directivos docentes
-      Es un evento gratuito para que construyamos desde la infancia las mejores
-      oportunidades para todos.
+    heading: Lo más reciente
+    contents: Te contamos lo que va sucediendo y las noticias más recientes
+        para que puedas prestar atención y no te vayas a perder el evento.
+
   - type: posts
     #heading: Recent Posts
     content_type: posts
@@ -39,7 +53,10 @@ items:
 
   - type: heading
     heading: Colaboradores
-
+    contents: Organizar un evento para centenas de personas requiere
+        planear, convocar, ejecutar, socializar, escribir, difundir,
+        programar, traer, llevar, por ello te invitamos a que hagas
+        parte del equipo de Colaboradores
   - type: collaborators
     #heading: Recent Posts
     content_type: collaborators

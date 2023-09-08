@@ -1,5 +1,5 @@
-# edupy
-Edupy Homepage
+# EduPy
+EduPy Homepage
 
 Este sitio está hecho con [Hugo](https://gohugo.io/getting-started/quick-start/) y el tema Arcana.  Por favor sigue el enlace previo para que sepas cómo configurar e instalar Hugo.
 

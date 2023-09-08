@@ -1,5 +1,5 @@
 ---
-title: El logo de Edupy
+title: El logo de EduPy
 image: images/pic01.jpg
 date: "2023-09-05T01:00:00"
 tags:

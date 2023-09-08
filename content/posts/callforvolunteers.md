@@ -7,7 +7,7 @@ tags:
   - organizational
 ---
 
-# Ser Voluntario para edupy
+# Ser Voluntario para EduPy
 
 Esta es la primera versión de Edupy y ser parte del mismo es emocionante porque sentará las bases para las próximas ediciones.  En esta oportunidad el enfoque es para docentes y directivos docentes de colegios, puesto que sabemos que la educación comienza desde los primeros años y la oportunidad de contar con herramientas construídas con Python y el aprendizaje de un lenguaje de programación puede facilitar procesos de aprendizaje.
 

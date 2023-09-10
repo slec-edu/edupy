@@ -8,7 +8,7 @@ defaultcontentlanguage = "es"
     tag = "tags"
 
 [params]
-    description = "A business/corporate style responsive site template."
+    description = "EduPy es el espacio para que docentes puedan usar herramientas de Python desde las aulas de clase."
     show_post_dates = false
 
     [[params.social]]

@@ -10,16 +10,20 @@ defaultcontentlanguage = "es"
 [params]
     description = "EduPy es el espacio para que docentes puedan usar herramientas de Python desde las aulas de clase."
     show_post_dates = false
+    attribution = false
 
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
         url = "https://github.com/slec-edu/edupy/"
     [[params.social]]
+        title = "Youtube"
+        icon = "fa-youtube"
+        url = "https://www.youtube.com/@edupy_co"
+    [[params.social]]
         title = "Creative Commons"
         icon = "fa-creative-commons"
         url = "https://creativecommons.org/"
-
 
     [params.footer]
 

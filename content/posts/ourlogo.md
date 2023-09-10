@@ -8,3 +8,6 @@ tags:
 ---
 
 La idea del primer logo fue concebida por Diego Fernando Marín en un taller de creación de logo para la comunidad [Python Cali](). A partir de ese logo, usando herramientas de IA Sebastián Henao comenzó a iterar y llegamos a un diseño que tiene relación con Python, educación y lleva a Cali en su corazón.
+
+[.](/images/pic01.jpg)
+[.](/images/pic02.jpg)

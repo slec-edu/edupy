@@ -2,6 +2,9 @@
 title: Conferencistas y Talleristas
 image: images/pic02.jpg
 date: "2023-09-07T00:00:00"
+summary: Súmate a esta primera versión de EduPy, puedes contar tu historia
+  o también ofrecer un taller para que se pueda replicar lo que sientes que
+  tiene más valor de tu experiencia.
 tags:
   - volunteer
   - organizational

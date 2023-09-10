@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="{{ .Language }}">
     <head>
-        <link rel="stylesheet" type="text/css" href="./edupy/css/styles.css">
+        <link rel="stylesheet" type="text/css" href="./css/styles.css">
         {{- partial "head/head.html" . -}}
         {{- template "_internal/opengraph.html" . -}}
     </head>
@@ -28,6 +28,6 @@
     <script>
         var countdownDate = "{{ .Site.Params.countdownDate }}";
     </script>
-    <script src="./edupy/js/countdown.js"></script>
+    <script src="./js/countdown.js"></script>
     
 </html>

@@ -6,6 +6,9 @@ banner:
     contents: "Se voluntario"
     url: "https://bit.ly/VoluntariadoEduPyOctubre2023"
 items:
+  - type: countdown
+    content_type: countdown
+
   - type: heading
     heading: Cali, Octubre 21 de 2.023, Universidad Libre
     contents: Este día habrá conferencias y talleres dirigidos a docentes y 

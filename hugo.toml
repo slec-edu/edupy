@@ -3,7 +3,6 @@ languageCode = 'es-co'
 title = 'EduPy: Octubre 21 de 2.023, Cali, Colombia'
 theme = 'arcana'
 defaultcontentlanguage = "es"
-
 [taxonomies]
     tag = "tags"
 
@@ -11,7 +10,7 @@ defaultcontentlanguage = "es"
     description = "EduPy es el espacio para que docentes puedan usar herramientas de Python desde las aulas de clase."
     show_post_dates = false
     attribution = false
-
+    countdownDate = "2023-10-21T08:00:00"
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"

@@ -1,0 +1,42 @@
+html,
+body {
+    background-color: #37c0fb;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+ul#countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en pantallas más pequeñas */
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    max-width: 600px; /* Ajusta el máximo ancho del contador */
+    margin: 0 auto;
+    color: #fff;
+    border: 1px solid #adafb2;
+    border-width: 1px 0;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+ul#countdown li {
+    padding: 10px;
+    text-align: center;
+    font-size: 4vw; /* Ajusta el tamaño de fuente responsivamente */
+}
+
+ul#countdown .label {
+    font-size: 2vw; /* Ajusta el tamaño de fuente de las etiquetas responsivamente */
+    text-transform: uppercase;
+}
+
+/* Estilos para separar números y etiquetas */
+ul#countdown .number {
+    margin-bottom: 5px; /* Espacio entre números y etiquetas */
+}

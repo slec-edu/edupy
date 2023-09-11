@@ -1,12 +1,15 @@
 html, body {
-    background-color: #37c0fb !important;
     width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
     font-family: 'Arial Narrow', Arial, sans-serif;
 }
+.fluid-countdown{
 
+    background-color: #37c0fb !important;
+
+}
 ul#countdown {
     display: flex;
     justify-content: center;

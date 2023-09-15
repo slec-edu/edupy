@@ -64,6 +64,18 @@ items:
     #heading: Recent Posts
     content_type: collaborators
     max: 4
+  - type: heading
+    heading: Patrocinadores
+    contents: Los patrocinios siempre vienen bien para lograr que los
+        costos para los asistentes disminuyan, agradecemos a las
+        organizaciones y empresas que nos brindan recursos para la
+        realización de este evento
+  - type: sponsors
+    #heading: Recent Posts
+    content_type: sponsors
+    max: 4
+
+  
   - type: cta
     contents: ¿Estás list@ para ayudar?
     button:

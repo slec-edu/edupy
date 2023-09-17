@@ -31,3 +31,5 @@ Please review the hotel's health and safety guidelines prior to your arrival:
 
 # Commitment to Compliance
 EduPy takes these Health & Safety Guidelines very seriously and will therefore enforce a 3-strike rule. Anyone who violates these guidelines on three separate accounts, such as  disregarding social distancing, is subject to removal from the conference.
+
+Adapted from [US Pycon 2.023](https://us.pycon.org/2023/about/health-safety-guidelines/)

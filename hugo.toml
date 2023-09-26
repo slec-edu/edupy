@@ -20,6 +20,10 @@ defaultcontentlanguage = "es"
         icon = "fa-youtube"
         url = "https://www.youtube.com/@edupy_co"
     [[params.social]]
+        title = "Lista de Correo"
+        icon = "fa-paper-plane"
+        url = "https://www.freelists.org/list/slec/"
+    [[params.social]]
         title = "Creative Commons"
         icon = "fa-creative-commons"
         url = "https://creativecommons.org/"

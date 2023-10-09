@@ -1,10 +1,10 @@
 banner:
   enable: true
   image: "images/banner.png"
-  contents: "**Voluntarios:** Hacemos realidad el evento con tu ayuda "
+  contents: "**Inscripciones:** Abiertas para este 21 de Octubre "
   button:
-    contents: "Se voluntario"
-    url: "https://bit.ly/VoluntariadoEduPyOctubre2023"
+    contents: "Inscríbete"
+    url: "https://edupytickets.slec.net/"
 items:
   - type: countdown
     content_type: countdown
@@ -16,10 +16,10 @@ items:
       Es un evento gratuito para que construyamos desde la infancia las mejores
       oportunidades para todos.
   - type: cta
-    contents: Postula tu taller o charla
+    contents: No te quedes por fuera este 21 de octubre
     button:
-      contents: Comparte lo que has hecho
-      url: "https://bit.ly/ConferencistaEdupyOctubre2023"
+      contents: Te esperamos
+      url: "https://edupytickets.slec.net/"
 
   - type: highlights
     items_per_row: 3
@@ -30,12 +30,12 @@ items:
         Quieres ayudarnos a que el evento sea visible en redes,
         acompañar conferencistas programar o ser parte de esta
         primera vez? [Colabora](https://bit.ly/VoluntariadoEduPyOctubre2023)
-    - title: Inscripción de conferencistas
+    - title: Vive esta experiencia
       icon: fa-pencil-alt
       content: >
-        Te gusta contar las experiencias en torno a educación que has
-        vivido? Tienes herramientas que deseas compartir para otros docentes?
-        Creas contenidos? [Guía](https://bit.ly/ConferencistaEdupyOctubre2023)
+        Cuándo fue la última vez que pudiste conocer otros docentes que incluyeran
+        en su práctica tecnologías para apropiar? Quieres compartir experiencias?
+        Este es tu momento [Inscríbete](https://edupytickets.slec.net/)
     - title: Inscripción de patrocinadores
       icon: fa-wrench
       content: >

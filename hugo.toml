@@ -48,10 +48,6 @@ defaultcontentlanguage = "es"
         [[params.footer.links.links]]
             title = "UniLibre - Cali"
             url = "https://www.unilibre.edu.co/cali/"
-        
-        [[params.footer.links.links]]
-            title = "Wikimedia Colombia"
-            url = "https://co.wikimedia.org/"
 
         [[params.footer.links.links]]
             title = "Ubidots"

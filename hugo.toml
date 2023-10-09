@@ -33,12 +33,6 @@ defaultcontentlanguage = "es"
         [[params.footer.links]]
             header = "Comunidades"
         [[params.footer.links.links]]
-            title = "CaliDev"
-            url = "https://calidev.co/"
-        [[params.footer.links.links]]
-            title = "Pyladies - Cali"
-            url = "https://www.meetup.com/pyladies-co-cali/"
-        [[params.footer.links.links]]
             title = "Tribu Latam"
             url = "https://www.tribulatam.com/"
         [[params.footer.links.links]]

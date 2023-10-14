@@ -57,7 +57,17 @@ defaultcontentlanguage = "es"
             title = "Python Software Foundation"
             url = "python.org/psf"
 
+        [[params.footer.links]]
+            header = "Legal"
+        [[params.footer.links.links]]
+            title = "Protección de datos"
+            url = "/legal/protecciondatos/"
+        [[params.footer.links.links]]
+            title = "Código de Conducta"
+            url = "/posts/conductcode/"        
+
         [params.footer.contact_form]
             enabled = false
             header = "Contáctanos"
             action = ""
+

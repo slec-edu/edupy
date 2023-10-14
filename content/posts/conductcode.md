@@ -1,7 +1,6 @@
 ---
 title: Código de Conducta
 date: "2023-09-06T00:00:00"
-menu: main
 summary: Adoptamos un código de conducta para EduPy de forma 
   tal que tengamos confianza respecto a quienes nos encontramos
   en el evento y los espacios que se deriven de este.

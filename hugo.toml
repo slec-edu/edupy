@@ -55,7 +55,11 @@ defaultcontentlanguage = "es"
 
         [[params.footer.links.links]]
             title = "Python Software Foundation"
-            url = "python.org/psf"
+            url = "https://python.org/psf"
+
+        [[params.footer.links.links]]
+            title = "Wikimedia Colombia"
+            url = "https://wikimediacolombia.org/"
 
         [[params.footer.links]]
             header = "Legal"

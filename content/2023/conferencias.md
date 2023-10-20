@@ -58,7 +58,7 @@ Mientras suceden las conferencias tendremos talleres para quienes deseen ponerse
 **Desarrollo del pensamiento computacional mediante proyectos transversales - Willy Fernando Figueroa Celis**
 
 **10:40 - 12:00**
-**En confirmación**
+**OpenStreetMap en el aula - Igor Támara**
 
 **13:00 - 15:00**
 **Micro:bit y Python - Diego Fernando Marín**

@@ -14,8 +14,7 @@ Nuestro formato cuenta con 5 conferencias de 50 minutos cada una:
  * Presentaciones de 10 minutos del público que toma la tarima
  * Cierre a las 4:30PM
 
-# Conferencias
-# Programa de la Conferencia
+# Conferencias - Auditorio Ingeniería
 
 **9:00 - 9:50**
 **Programando ando - Víctor David Mosquera**
@@ -50,7 +49,7 @@ Se realizará una charla donde se dará a conocer los proyectos Wikimedia y cóm
 **16:30 - 17:00**
 **Despedida e Invitación**
 
-# Talleres
+# Talleres Aula 503
 
 Mientras suceden las conferencias tendremos talleres para quienes deseen ponerse manos a la obra.
 

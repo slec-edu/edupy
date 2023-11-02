@@ -1,6 +1,6 @@
 baseURL = 'https://slec.net/edupy/'
 languageCode = 'es-co'
-title = 'EduPy: Octubre 21 de 2.023, Cali, Colombia'
+title = 'EduPy: Democratizando el conocimiento'
 theme = 'arcana'
 defaultcontentlanguage = "es"
 [taxonomies]
